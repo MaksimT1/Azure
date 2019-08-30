@@ -9,7 +9,7 @@
 			"value": "GEN-UNIQUE"
 		},
 		"linuxAdminUsername": {
-			"value": "GEN-UNIQUE"
+			"value": "admin"
 		},
 		"sshRSAPublicKey": {
 			"value": "GEN-SSH-PUB-KEY"
