@@ -1,6 +1,6 @@
 {
     "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
-    "type": "QuickStart",
+    "type": "AKSQuickStart",
     "itemDisplayName": "Azure Container Service (AKS)",
     "description": "Deploy a managed cluster with Azure Container Service (AKS)",
     "summary": "Deploy a managed cluster with Azure Container Service (AKS)",
